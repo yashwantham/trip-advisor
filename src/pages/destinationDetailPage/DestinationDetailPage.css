@@ -1,0 +1,28 @@
+.destination-heading {
+    color: #636CFF;
+}
+
+.dest-img {
+    height: 23rem;
+    width: 25rem;
+    object-fit: cover;
+}
+
+.img-n-details {
+    margin-top: 4rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.dest-detail-container {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+
+.dest-detail-container strong {
+    color: #636CFF;
+}

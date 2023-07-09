@@ -16,7 +16,7 @@ export function HomePage() {
 
             <div className="continentslist-container cards">
                 {dataState.map((cont) => (
-                    <NavLink to='/'>
+                    <NavLink to={`/continent/${cont.id}`} key={cont.id}>
                         <Card name={cont.name} image={cont.image}/>
                     </NavLink>
                 ))}
