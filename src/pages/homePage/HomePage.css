@@ -1,0 +1,9 @@
+h2 {
+    color: #636CFF;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 4rem;
+}

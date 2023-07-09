@@ -1,0 +1,23 @@
+.card-container {
+    position: relative;
+}
+
+.card-img {
+    height: 17rem;
+    width: 20rem;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+    object-fit: cover;
+}
+
+
+.locicon-name {
+    color: #fff;
+    position: absolute;
+    top: 14rem;
+    left: 2rem;
+}
+
+.location-icon {
+    margin-right: 10px;
+}
