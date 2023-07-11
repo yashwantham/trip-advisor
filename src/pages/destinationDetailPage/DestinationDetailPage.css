@@ -22,6 +22,9 @@
     justify-content: space-around;
 }
 
+.row {
+    color: #fff;
+}
 
 .dest-detail-container strong {
     color: #636CFF;

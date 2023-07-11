@@ -1,6 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .App {
   text-align: center;
-  /* background-color: #242424; */
-  /* min-height: 100vh;
-  min-width: 100vh; */
+  background-color: #242424;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
 }
